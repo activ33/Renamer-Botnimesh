@@ -1,6 +1,7 @@
-python==3.5.0
+
 pyrogram
 Tgcrypto
 aiohttp
 Flask
 gunicorn
+db-sqlite3
