@@ -1,5 +1,4 @@
 pyrogram
-sqlite3==3.43.0
 Tgcrypto
 aiohttp
 Flask
