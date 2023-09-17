@@ -1,5 +1,5 @@
 pyrogram
-libsqlite3-dev
+sqlite3
 Tgcrypto
 aiohttp
 Flask
