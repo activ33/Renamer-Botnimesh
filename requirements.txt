@@ -3,4 +3,3 @@ Tgcrypto
 aiohttp
 Flask
 gunicorn
-pysqlite3
