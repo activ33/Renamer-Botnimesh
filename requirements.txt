@@ -1,7 +1,6 @@
-
 pyrogram
 Tgcrypto
 aiohttp
 Flask
 gunicorn
-db-sqlite3
+pysqlite3
