@@ -3,3 +3,6 @@ Tgcrypto
 aiohttp
 Flask
 gunicorn
+requests
+selenium
+pandas
